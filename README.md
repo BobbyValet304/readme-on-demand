@@ -37,7 +37,7 @@ N/A
 
 ## Contact
 
-**Email: mailto:jalen@test.com**
+**Email: mailto:jalenwilliams90@yahoo.com**
 
 **GitHub: [BobbyValet304](https://github.com/BobbyValet304)**
 
