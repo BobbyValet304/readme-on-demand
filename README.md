@@ -17,11 +17,11 @@ Clone the repository and npm i(install the dependencies)
 
 ## Usage
 
-Enter node index.js in terminal then answer all questions.
+Enter node index.js in terminal then answer all questions
 
 ## Contributions
 
-Fork the repository then do a pull request.
+Fork the repository then do a pull request
 
 ## License
 
@@ -41,3 +41,4 @@ N/A
 
 **GitHub: [BobbyValet304](https://github.com/BobbyValet304)**
 
+https://drive.google.com/file/d/1k9RkYp4ZeCD4CdgViAG-TOmKBYN6guu-/view?usp=sharing
